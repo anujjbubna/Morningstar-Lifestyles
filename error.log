@@ -6,3 +6,41 @@ To github.com:anujjbubna/Morningstar-Lifestyles.git
    3a6bf53..f58d73a  master -> master
 
 
+----------
+
+Wed May 13 2020 11:36:18 GMT-0400 (Eastern Daylight Time)
+
+To github.com:anujjbubna/Morningstar-Lifestyles.git
+   f58d73a..b5b601f  master -> master
+
+
+----------
+
+Wed May 13 2020 11:36:19 GMT-0400 (Eastern Daylight Time)
+
+To github.com:anujjbubna/Morningstar-Lifestyles.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at b5b601f0b3c716a8f01be7d7f0029eddff909b64 but expected f58d73a3cc71268fbded2130e127001055bd9f29)
+
+
+----------
+
+Wed May 13 2020 11:36:19 GMT-0400 (Eastern Daylight Time)
+
+error: failed to push some refs to 'git@github.com:anujjbubna/Morningstar-Lifestyles.git'
+
+
+----------
+
+Wed May 13 2020 11:36:20 GMT-0400 (Eastern Daylight Time)
+
+To github.com:anujjbubna/Morningstar-Lifestyles.git
+ ! [remote rejected] master -> master (cannot lock ref 'refs/heads/master': is at b5b601f0b3c716a8f01be7d7f0029eddff909b64 but expected f58d73a3cc71268fbded2130e127001055bd9f29)
+
+
+----------
+
+Wed May 13 2020 11:36:20 GMT-0400 (Eastern Daylight Time)
+
+error: failed to push some refs to 'git@github.com:anujjbubna/Morningstar-Lifestyles.git'
+
+
