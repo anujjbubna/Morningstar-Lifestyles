@@ -1,0 +1,81 @@
+#about {
+  padding: 40px;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  #about {
+    padding: 20px;
+  }
+}
+
+#about .jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgb(255,255,255, .1);
+  max-width: 1035px;
+  margin: 0 auto;
+}
+
+#brand {
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  #about .jumbotron {
+    padding: 20px;
+  }
+}
+
+body {
+  background: linear-gradient(rgba(255,255,255,0.7), rgba(255, 255, 255, 0.7)), url(../../assets/img/RainbowBackground_Preview_03_rotated.jpg?h=92dd95602c4c26cfa1f685d69d0983a3) no-repeat;
+  background-size: cover;
+}
+
+#whatwedo {
+  padding: 40px;
+  margin: 0 auto;
+}
+
+#whatwedo .text-center {
+  max-width: 1035px;
+  margin: 0 auto;
+}
+
+#projects .container {
+  padding: 20px;
+}
+
+#projects h1 {
+  padding: 20px;
+}
+
+.nav-link.active {
+  font-size: 18px;
+}
+
+.dropdown-toggle.nav-link {
+  font-size: 18px;
+}
+
+.nav-link {
+  font-size: 18px;
+}
+
+.nav-item {
+  margin-right: 20px;
+}
+
+#options {
+  padding: 60px;
+  position: fixed;
+  background-color: white;
+  width: 100%;
+}
+
+.navbar-toggler {
+}
+
