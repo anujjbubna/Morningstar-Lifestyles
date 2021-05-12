@@ -30,8 +30,8 @@
   }
 }
 
-body {
-  background: linear-gradient(rgba(255,255,255,0.7), rgba(255, 255, 255, 0.7)), url(../../assets/img/RainbowBackground_Preview_03_rotated.jpg?h=92dd95602c4c26cfa1f685d69d0983a3) no-repeat;
+#home {
+  background: linear-gradient(rgba(255,255,255,0.7), rgba(255, 255, 255, 0.7)), url(../../assets/img/RainbowBackground_Preview_03_rotated.jpg) no-repeat;
   background-size: cover;
 }
 
@@ -77,5 +77,18 @@ body {
 }
 
 .navbar-toggler {
+}
+
+#medicare {
+  background: linear-gradient(rgb(153,244,130), rgb(248,251,104));
+  /*background: yellow;*/
+  background-size: cover;
+  height: 100%;
+  background-repeat: no-repeat;
+}
+
+#ent {
+  background: linear-gradient(rgba(255,255,255,0.2), rgba(255, 255, 255, 0.0)), url(../../assets/img/ent.jpg) no-repeat;
+  background-size: cover;
 }
 
